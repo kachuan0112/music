@@ -21,7 +21,7 @@ from discord.ext import commands
 from discord_slash import SlashCommand
 from youtube_dl.utils import url_basename
 
-TOKEN="ODY1NDU0NzExMjMzNzA4MDMz.YPEPgg.0sdeLoCN8HISZUcORpuqse_KKP8"
+TOKEN"token"
 
 # Silence useless bug reports messages
 youtube_dl.utils.bug_reports_message = lambda: ''
